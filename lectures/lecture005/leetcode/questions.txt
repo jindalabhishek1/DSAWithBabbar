@@ -1,0 +1,2 @@
+Question 01: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer
+Question 02: https://leetcode.com/problems/number-of-1-bits/
