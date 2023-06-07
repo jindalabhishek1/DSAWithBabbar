@@ -1,0 +1,1 @@
+// memset func for cpp and equivatent for go
