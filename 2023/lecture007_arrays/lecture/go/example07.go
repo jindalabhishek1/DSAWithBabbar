@@ -25,4 +25,5 @@ func main() {
 		fmt.Scan(&secondArr[i])
 	}
 
+	fmt.Println(append(firstArr, secondArr...))
 }

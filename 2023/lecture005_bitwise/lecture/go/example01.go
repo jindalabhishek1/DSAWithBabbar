@@ -1,3 +1,4 @@
+// doc: https://go.dev/ref/spec#Operators
 package main
 
 import "fmt"
